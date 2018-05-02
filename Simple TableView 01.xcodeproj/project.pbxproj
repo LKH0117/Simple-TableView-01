@@ -12,6 +12,9 @@
 		7469A0452099589700F9DBC1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7469A0432099589700F9DBC1 /* Main.storyboard */; };
 		7469A0472099589700F9DBC1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7469A0462099589700F9DBC1 /* Assets.xcassets */; };
 		7469A04A2099589700F9DBC1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7469A0482099589700F9DBC1 /* LaunchScreen.storyboard */; };
+		7469A054209968FB00F9DBC1 /* 2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 7469A051209968FA00F9DBC1 /* 2.jpeg */; };
+		7469A055209968FB00F9DBC1 /* 3.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 7469A052209968FB00F9DBC1 /* 3.jpeg */; };
+		7469A056209968FB00F9DBC1 /* 1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 7469A053209968FB00F9DBC1 /* 1.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		7469A0462099589700F9DBC1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7469A0492099589700F9DBC1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7469A04B2099589700F9DBC1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7469A051209968FA00F9DBC1 /* 2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpeg; sourceTree = "<group>"; };
+		7469A052209968FB00F9DBC1 /* 3.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpeg; sourceTree = "<group>"; };
+		7469A053209968FB00F9DBC1 /* 1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +60,9 @@
 		7469A03E2099589600F9DBC1 /* Simple TableView 01 */ = {
 			isa = PBXGroup;
 			children = (
+				7469A053209968FB00F9DBC1 /* 1.jpeg */,
+				7469A051209968FA00F9DBC1 /* 2.jpeg */,
+				7469A052209968FB00F9DBC1 /* 3.jpeg */,
 				7469A03F2099589700F9DBC1 /* AppDelegate.swift */,
 				7469A0412099589700F9DBC1 /* ViewController.swift */,
 				7469A0432099589700F9DBC1 /* Main.storyboard */,
@@ -123,6 +132,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7469A055209968FB00F9DBC1 /* 3.jpeg in Resources */,
+				7469A056209968FB00F9DBC1 /* 1.jpeg in Resources */,
+				7469A054209968FB00F9DBC1 /* 2.jpeg in Resources */,
 				7469A04A2099589700F9DBC1 /* LaunchScreen.storyboard in Resources */,
 				7469A0472099589700F9DBC1 /* Assets.xcassets in Resources */,
 				7469A0452099589700F9DBC1 /* Main.storyboard in Resources */,
